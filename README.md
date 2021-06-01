@@ -1,4 +1,4 @@
-# Algorithm Study
+# Study Note
 
 ## Coding Challenge Websites
 * [Baekjoon](https://www.acmicpc.net/)
